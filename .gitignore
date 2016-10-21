@@ -1,0 +1,11 @@
+.Makefile.swp
+.keyboard_inter.ko.cmd
+.keyboard_inter.mod.o.cmd
+.keyboard_inter.o.cmd
+.tmp_versions/
+Module.symvers
+keyboard_inter.ko
+keyboard_inter.mod.c
+keyboard_inter.mod.o
+keyboard_inter.o
+modules.order
